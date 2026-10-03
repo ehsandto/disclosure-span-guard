@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+artifacts/
+.venv/
+node_modules/
+*.pyc
+*.log
+*.key
+*.keystore
+.env
