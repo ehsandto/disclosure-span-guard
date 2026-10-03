@@ -39,4 +39,4 @@ The `PERSONAL` policy replaces personal addresses and preserves verified shared 
 
 Install `genlayer-test`, `genvm-linter`, and the GenLayer CLI. Run `genvm-lint check contracts/DisclosureSpanGuard.py` and `pytest tests -q`. Set CLI network to `studionet`, then deploy with `genlayer deploy --contract contracts/DisclosureSpanGuard.py`. The `examples/incident.txt` file is a synthetic demo, not a real leaked document.
 
-See `LIVE_PROOFS.md` for verified Explorer transactions after deployment. Do not treat a finalized transaction as a successful execution without checking its receipt.
+See [LIVE_PROOFS.md](LIVE_PROOFS.md) for finalized Explorer transactions and their verified execution results. [SUBMISSION.md](SUBMISSION.md) contains the copy-ready Builder form text.
